@@ -7,7 +7,7 @@
 ---
 ##Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=c++,flutter,descord)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,flutter,discord,dart)](https://skillicons.dev)
 
 ###### Technologies
 
